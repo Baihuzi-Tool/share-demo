@@ -31,7 +31,7 @@ class Common
 }
 
 if(Common::isMobileView()){
-    echo "我是手机页面";
+    echo "我是手机页面 ";
 }else{
     echo  "我是pc页面";
 }
